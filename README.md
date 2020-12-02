@@ -1,2 +1,2 @@
 # Ecuaciones-diferenciales
-Resolución de problemas de ecuaciones diferenciales por los métodos de rk, método de Taylor y Método de Euler.
+Resolución de problemas de ecuaciones diferenciales por los métodos de rk, método de Taylor y Método de Euler, leer pdf.
